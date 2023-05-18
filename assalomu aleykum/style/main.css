@@ -1,0 +1,22 @@
+.kj{width: 50px;
+height: 50px;display: flex;
+}
+.kj:hover{
+    background-image: url(/img/sports_basketball_FILL0_wght100_GRAD-25_opsz48.svg)
+    ;}
+.kl{width: 50px;
+height: 50px;display: flex;}
+.kl:hover{
+    background-image: url(/img/sports_tennis_FILL0_wght100_GRAD-25_opsz48.svg);
+}
+.kg{width: 50px;
+height: 50px;display: flex;}
+.kg:hover{
+    background-image: url(/img/sports_volleyball_FILL0_wght100_GRAD-25_opsz48.svg);}
+.ki{width: 50px;
+height: 50px;display: flex;}
+.ki:hover{
+    background-image: url(/img/sports_hockey_FILL0_wght100_GRAD-25_opsz48.svg);}
+    .ghj{justify-content: space-between;
+        display: flex;
+    display: block;}
